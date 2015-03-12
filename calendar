@@ -1,4 +1,4 @@
-package iCalendar;
+
 import java.io.*;
 import java.util.*;
 import java.util.TimeZone;
